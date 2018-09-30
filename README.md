@@ -4,7 +4,7 @@ This Exploratory Data Analysis (EDA) took a Kaggle competition dataset sponsored
 (IADB) on predicting poverty levels amongst households in Costa Rica. The research idea is to identify
 and explore those variables (household attributes or assets found in homes) to understand the data structure and underlying relationships in the data. 
 
-# Exploratory Questions
+### Exploratory Questions
 With the Kaggle data, some exploratory questions intended to be answered are:
 
 - Might overcrowdedness in households impact poverty levels?
